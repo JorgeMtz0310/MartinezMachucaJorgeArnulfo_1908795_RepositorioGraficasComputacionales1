@@ -1,0 +1,2 @@
+# MartinezMachucaJorgeArnulfo_1908795_RepositorioGraficasComputacionales1
+Tareas de graficas computacionales y entrega 
