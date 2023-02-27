@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\jorge\Desktop\8vo Semestre\Graficas Computacionales\Tengram\Tengram\Main.cpp(284,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tengram.vcxproj -> C:\Users\jorge\Desktop\8vo Semestre\Graficas Computacionales\Tengram\x64\Debug\Tengram.exe
