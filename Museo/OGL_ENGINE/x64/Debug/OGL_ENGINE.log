@@ -1,0 +1,92 @@
+﻿  main.cpp
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\shader_m.h(44,40): warning C4101: 'e': unreferenced local variable
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\camera.h(76,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(34,26): warning C4244: '*=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(35,26): warning C4244: '*=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(96,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(97,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Objectives.h(4,13): warning C4081: expected 'newline'; found ';'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(63,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(64,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,64): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,52): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(61,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(62,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,64): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,52): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\RigidModel.h(1,13): warning C4081: expected 'newline'; found ';'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\mesh.h(111,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(52,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(192,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\textrenderer.h(117,37): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\variables.h(108,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(143,33): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(367,69): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(415,46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(428,46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(441,46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(534,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(535,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(539,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(540,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(542,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(543,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(565,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(566,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(570,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(571,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(573,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(574,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(593,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(68,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(71,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(176,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(177,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(178,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(180,147): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(355,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(356,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(363,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(364,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(371,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(372,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(379,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(380,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(388,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(389,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(400,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(401,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(411,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(412,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(422,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jorge\Desktop\OGL_ENGINE\OGL_ENGINE\main.cpp(423,54): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OGL_ENGINE.vcxproj -> C:\Users\jorge\Desktop\OGL_ENGINE\x64\Debug\OGL_ENGINE.exe
